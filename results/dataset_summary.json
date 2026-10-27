@@ -1,0 +1,11 @@
+{
+  "reviews": 151254,
+  "positive_reviews": 120044,
+  "users": 14681,
+  "items": 8713,
+  "observed_sparsity": 0.9988175480115385,
+  "positive_sparsity": 0.9990615371064377,
+  "first_date": "2000-08-09 00:00:00",
+  "last_date": "2014-07-23 00:00:00",
+  "empty_summary_fraction": 0.0
+}

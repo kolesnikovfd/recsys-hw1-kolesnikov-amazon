@@ -1,0 +1,9 @@
+{
+  "executed_code_cells": 14,
+  "embedded_figures": 5,
+  "unit_tests_passed": 11,
+  "cell_errors": 0,
+  "per_user_means_reconciled": true,
+  "informational_stderr": "Matplotlib initial font-cache creation",
+  "kernel_shutdown_note": "macOS sandbox denied psutil process enumeration during kernel cleanup; all cells completed and the notebook was saved."
+}

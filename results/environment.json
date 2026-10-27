@@ -1,0 +1,15 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "packages": {
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "torch": "2.6.0",
+    "matplotlib": "3.10.1",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  },
+  "seed": 2026,
+  "threads": 1
+}
